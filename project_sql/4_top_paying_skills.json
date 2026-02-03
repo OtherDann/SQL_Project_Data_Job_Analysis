@@ -1,0 +1,102 @@
+[
+  {
+    "skills": "assembly",
+    "average_salary": "192500"
+  },
+  {
+    "skills": "mongo",
+    "average_salary": "182223"
+  },
+  {
+    "skills": "ggplot2",
+    "average_salary": "176250"
+  },
+  {
+    "skills": "rust",
+    "average_salary": "172819"
+  },
+  {
+    "skills": "clojure",
+    "average_salary": "170867"
+  },
+  {
+    "skills": "perl",
+    "average_salary": "169000"
+  },
+  {
+    "skills": "neo4j",
+    "average_salary": "166559"
+  },
+  {
+    "skills": "solidity",
+    "average_salary": "166250"
+  },
+  {
+    "skills": "graphql",
+    "average_salary": "162547"
+  },
+  {
+    "skills": "julia",
+    "average_salary": "160500"
+  },
+  {
+    "skills": "splunk",
+    "average_salary": "160397"
+  },
+  {
+    "skills": "bitbucket",
+    "average_salary": "160333"
+  },
+  {
+    "skills": "zoom",
+    "average_salary": "159000"
+  },
+  {
+    "skills": "kubernetes",
+    "average_salary": "158190"
+  },
+  {
+    "skills": "numpy",
+    "average_salary": "157592"
+  },
+  {
+    "skills": "mxnet",
+    "average_salary": "157500"
+  },
+  {
+    "skills": "fastapi",
+    "average_salary": "157500"
+  },
+  {
+    "skills": "redis",
+    "average_salary": "157000"
+  },
+  {
+    "skills": "trello",
+    "average_salary": "155000"
+  },
+  {
+    "skills": "jquery",
+    "average_salary": "151667"
+  },
+  {
+    "skills": "express",
+    "average_salary": "151636"
+  },
+  {
+    "skills": "cassandra",
+    "average_salary": "151282"
+  },
+  {
+    "skills": "unify",
+    "average_salary": "151000"
+  },
+  {
+    "skills": "kafka",
+    "average_salary": "150549"
+  },
+  {
+    "skills": "vmware",
+    "average_salary": "150000"
+  }
+]
